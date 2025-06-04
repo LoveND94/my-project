@@ -40,4 +40,4 @@ CLM-Net achieved:
 ## 🔬 Citation
 If you use this model in academic work, please cite:
 
-> "Deep learning for automatic pathology feature recognition and prognosis prediction in colorectal liver metastasis", MA-24-015, 2025.
+> "Deep learning for automatic pathology feature recognition and prognosis prediction in colorectal liver metastasis", 2025.
